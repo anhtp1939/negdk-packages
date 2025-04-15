@@ -1,1 +1,1 @@
-# NEGdk for Cocos Creator (public)
+# NEGDK public packages
